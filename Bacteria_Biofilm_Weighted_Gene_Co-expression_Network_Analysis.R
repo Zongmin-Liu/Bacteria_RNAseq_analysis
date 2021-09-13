@@ -266,4 +266,4 @@ datTraits <- sample_info
     threshold = 0.2) # threshold 0.2 0.3，0.4，0.5
 }
 
-
+# Input the cyt file to Cytoscape. Then using String database to constucte PPI 
