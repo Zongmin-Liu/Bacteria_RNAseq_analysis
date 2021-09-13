@@ -1,0 +1,3 @@
+# Bacteria_RNAseq_analysis
+Bioﬁlm formation has evolved as an adaptive strategy for bacteria to cope with harsh environmental conditions. A time-series transcriptome sequencing analysis of both bioﬁlm and planktonic cells of bacteria was performed to identify candidate genes involved in bioﬁlm formation.
+After obtaining the gene expression matrix and the phenotype information of the sample, the key genes are determined by calculating the correlation between the phenotype data and the genes. First, use WGCNA R package to cluster the genes, and then determine the target module gene through the correlation between the calculation module and the phenotype, and finally calculate the target module gene to generate a relational network.
